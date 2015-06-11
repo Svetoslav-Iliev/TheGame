@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\TheGame\TheGame\bin\Debug\TheGame.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\TheGame\TheGame\bin\Debug\TheGame.exe
+c:\users\asus\documents\visual studio 2013\Projects\TheGame\TheGame\bin\Debug\TheGame.pdb
+c:\users\asus\documents\visual studio 2013\Projects\TheGame\TheGame\obj\Debug\TheGame.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\TheGame\TheGame\obj\Debug\TheGame.exe
+c:\users\asus\documents\visual studio 2013\Projects\TheGame\TheGame\obj\Debug\TheGame.pdb
