@@ -259,6 +259,6 @@ internal class TheGame
         Console.ForegroundColor = ConsoleColor.White;
         Console.BufferHeight = Console.WindowHeight;
         Console.BufferWidth = Console.WindowWidth;
-        Console.Title = "The Game - TEAM \"SHADDA-BI-BORAN\"";
+        Console.Title = "Brick Destroyer - Team \"IRIDONIA\"";
     }
 }
